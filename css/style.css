@@ -540,6 +540,7 @@ body{
 	.header__container{
 		justify-content: center;
 	}
+}	
 	
 @media (max-width: 414px) {
 	.main__section {
@@ -564,6 +565,6 @@ body{
 	.navigation__item{
 		font-size: 12px;
 	}
-	
-}
+}	
+
 
